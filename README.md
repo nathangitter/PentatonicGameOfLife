@@ -1,5 +1,4 @@
-# Pentatonic Game Of Life 🔬🎵
-### Interactive music generation based on Conway's game of life
+<img src="Resources/title.png" alt="Pentatonic game of life. Interactive music generation based on Conway's game of life.">
 
 <img src="Resources/screenshots.png" alt="Screenshots of the playground">
 
@@ -11,7 +10,7 @@ Conway’s game of life is a cellular automaton that follows a few simple rules.
 <img src="Resources/howitworks.png" alt="How it works">
 
 ## Context
-This playground was created for the WWDC18 scholarship program, which offers tickets to Apple's annual developer conference. Applicants submit an interactive Swift playground and written essays, which are reviewed by Apple. I was fortunate to be selected as a winner!
+This playground was created for the WWDC18 scholarship program, which offers tickets to Apple's annual developer conference in San Jose, CA. Applicants submit an interactive Swift playground and written essays which are reviewed by Apple. I was fortunate to be selected as a winner!
 
 More information is available here: https://developer.apple.com/wwdc/scholarships/
 
@@ -23,4 +22,4 @@ More information is available here: https://developer.apple.com/wwdc/scholarship
 To modify the playground, I reccomend opening the `ConwayMatrixContainerProject.xcodeproj` file. This project contains a reference to the playground, and allows auto-complete and syntax highlighting for Swift files in the playground's `Sources` folder.
 
 ## Liscence
-Code is under an MIT liscence. Images and sounds are © 2018 Nathan Gitter and may not be re-used in any way.
+Code is under an MIT liscence. Images and sounds are © 2018 Nathan Gitter and may not be reused in any way.
