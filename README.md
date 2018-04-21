@@ -14,7 +14,7 @@ The notes in the tone matrix are played left-to-rght. After each pass, the notes
 ## Addtional Features
 The user can click any cell to toggle its state between alive and dead. They can also select from five presets, which populate the cells with patterns.
 
-For fun, there are three special effects: "colors", "meows", and "party", which add a rainbow effect, replace images with cats and sounds with meows, and add party animations, repesctively.
+For fun, there are three special effects: "colors", "meows", and "party", which add a rainbow effect, replace images with cats and sounds with meows, and add party animations, respectively.
 
 ## Context
 This playground was created for the WWDC18 scholarship program, which offers tickets to Apple's annual developer conference in San Jose, CA. Applicants submit an interactive Swift playground and written essays which are reviewed by Apple. I was fortunate to be selected as a winner!
